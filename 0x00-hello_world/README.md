@@ -4,3 +4,4 @@
 3. Name
 4. Hello, puts
 5. Printf.c
+6. Size.c
