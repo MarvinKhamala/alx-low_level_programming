@@ -5,3 +5,4 @@
 4. Hello, puts
 5. Printf.c
 6. Size.c
+100. intel
