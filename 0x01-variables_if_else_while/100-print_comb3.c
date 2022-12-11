@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main main block
+ * main - main block
  * Description: Print all combinations of two digits
  * Numbers separated by comma
  * Numbers separated by spaces
