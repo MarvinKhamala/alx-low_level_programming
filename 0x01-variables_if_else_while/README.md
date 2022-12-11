@@ -8,3 +8,5 @@
 7. Tebahpla.c
 8. Print base16.c
 9. print comb.c
+100. print comb3.c
+101. Print comb4.c
